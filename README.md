@@ -2,7 +2,7 @@
 
 **Par Avion** is a clean, fast, browser-based translation tool. Type or paste any text, choose a source and target language, and get an instant translation — no sign-up, no installation, and no API key required for the person using it.
 
-The name comes from the old "par avion" airmail stamp used on international letters — a small nod to what this tool does: it sends your words abroad and brings a translation back.
+The name comes from the old "par avion" airmail stamp used on international letters — a small nod to what this tool does: it sends your words abroad and brings a translation back. This project was completed as part of CodeAlpha internship program. 
 
 🔗 **Live demo:** _add your deployed link here after following the steps below_
 
